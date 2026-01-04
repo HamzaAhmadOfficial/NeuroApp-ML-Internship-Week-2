@@ -1,3 +1,5 @@
+# Task 2.1 — NumPy Operations
+
 import numpy as np
 
 # 1. Array Creation
